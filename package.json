@@ -1,0 +1,28 @@
+{
+  "name": "nodesqlservertedious",
+  "version": "1.0.0",
+  "description": "CRUD operations from Node to Microsoft SQL Server using Tedious!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bassambst/NodeSQLServerTedious.git"
+  },
+  "keywords": [
+    "tedious",
+    "sql-server",
+    "mssql",
+    "node"
+  ],
+  "author": "bassambst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bassambst/NodeSQLServerTedious/issues"
+  },
+  "homepage": "https://github.com/bassambst/NodeSQLServerTedious#readme",
+  "dependencies": {
+    "tedious": "^4.1.3"
+  }
+}
